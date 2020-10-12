@@ -1,4 +1,4 @@
-# PR2 joint states difference detection between giskard and robot actual joint values ***
+# PR2 joint states difference detection between giskard and robot actual joint values
 
 - Run the PR2 normally to publish both (/body/joint_states) and (/giskard/joint_states) topics and then run this python code.
 
